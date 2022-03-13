@@ -1,6 +1,5 @@
 package com.example.questions.androidarchitecturecomponentsmvvmretrofitwithjava.response;
 
-import com.example.questions.androidarchitecturecomponentsmvvmretrofitwithjava.model.QuestionsList;
 import com.google.gson.JsonArray;
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
